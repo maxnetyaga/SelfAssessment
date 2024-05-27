@@ -26,7 +26,7 @@
   - assignment: 🙋 explained
   - regular expression: 🖐️ used
   - interface: 🙋 explained
-  - contract: 🎓 known
+  - contract: 🖐️ used
   - module: 🙋 explained
   - call stack: 🙋 explained
 - Functions
@@ -51,7 +51,7 @@
   - monad: 👂 heard
   - monoid: 👂 heard
   - generator: 🖐️ used
-  - coroutine: 👂 heard
+  - coroutine: 🖐️ used
 - Data structures
   - array: 🙋 explained
   - structure: 🙋 explained
@@ -67,9 +67,9 @@
   - doubly list: 🙋 explained
   - unrolled list: 👂 heard
   - circular list: 👂 heard
-  - queue: 👂 heard
+  - queue: 🖐️ used
   - stack: 🎓 known
-  - deque: 👂 heard
+  - deque: 🖐️ used
   - tree: 🎓 known
   - graph: 🎓 known
   - iterator: 🙋 explained
@@ -89,16 +89,16 @@
   - antipatterns: 🙋 explained
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
-  - magic numbers: 👂 heard
+  - magic numbers: 🙋 explained
   - hardcode: 🙋 explained
   - complexity: 🙋 explained
   - decomposition: 🙋 explained
-  - spaghetti: 👂 heard
+  - spaghetti: 🙋 explained
   - silver bullet: 👂 heard
   - not invented here: 👂 heard
   - dead code: 👂 heard
   - unreachable code: 🙋 explained
-  - duplicate code: 👂 heard
+  - duplicate code: 🙋 explained
   - exception: 🙋 explained
   - return early: 🙋 explained
   - unittest: 🎓 known

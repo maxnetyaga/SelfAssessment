@@ -39,18 +39,18 @@
   - Hidden class: 👂 heard
   - Object form: 👂 heard
   - instance: 🙋 explained
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
 - Patterns
   - Singleton: 🖐️ used
   - Factory Method: 👂 heard
   - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
   - Strategy: 🖐️ used
   - Facade: 👂 heard
   - Proxy: 🖐️ used
-  - Chain of Responsibility
+  - Chain of Responsibility 🖐️ used
   - Command: 🖐️ used
   - Iterator: 🙋 explained
   - State: 🙋 explained
